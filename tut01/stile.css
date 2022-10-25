@@ -1,0 +1,30 @@
+.menu{
+    background-color: #afa;
+    width: 50%;
+    text-align: center;
+    position:fixed;
+    left:0px;
+    bottom:0px;
+    height:50%;
+    border-radius: 0px 50px 0px 0px;
+    color:#233;
+    
+}
+.titolo{
+    
+    display: flex;
+
+
+    justify-content: center;
+}
+.listamenu{
+    text-decoration: none;
+}
+.lorem{
+    width: 40%;
+    text-align: center;
+    position:fixed;
+    right:0px;
+    bottom:15%;
+    
+}
